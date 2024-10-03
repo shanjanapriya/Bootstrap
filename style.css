@@ -1,0 +1,44 @@
+.theme-secondary{
+    background: white !important;
+    color: #777777 !important;
+}
+
+.nav-link{
+    color: #777777 !important;
+    font-size: 18px;
+    font-family: 'poppins',sans-serif;
+    font-weight: 400;
+    padding: 0 20px !important;
+}
+
+.slider_area{
+    height: 600px !important;
+    margin-bottom: 130px !important;
+}
+
+.slider_content{
+    height: 800px !important;
+    width: 100% !important;
+    background: rgba(0, 0, 0, 0.381) !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+
+   
+}
+
+.carousel-caption{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+
+.carousel-item img{
+    height: 700px !important;
+}
